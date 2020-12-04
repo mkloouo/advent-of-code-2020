@@ -1,0 +1,6 @@
+/.vscode
+/.DS_Store
+/day-*/.vscode
+/day-*/.DS_Store
+/day-*/solution*
+!/day-*/solution.cpp
