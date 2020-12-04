@@ -6,8 +6,6 @@
 #include <regex>
 #include <utility>
 
-using IsFieldMandatory = bool;
-
 namespace local
 {
   std::vector<std::string> split_string(const std::string &subject, const std::string &delim)
